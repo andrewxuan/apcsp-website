@@ -1,0 +1,1 @@
+int studentmain(void);

@@ -1,0 +1,32 @@
+PROGRAM OUTPUT
+TIP: For best GUI, please expand the console widthwise until this line is one straight line.
+
+Welcome to Commander II. Please select a game mode. 
+1-Storymode 
+2-Battlemode
+
+1
+You selected storymode. Welcome. You have been placed in command of the USS San Francisco. 
+
+
+**********************************************************************
+9°17'51.4"S 159°55'14.1"E 
+Sailing due west, off the north coast of Guadalcanal 
+Sector X-Ray Tango
+12 November 1942 22:35
+**********************************************************************
+
+<It's such a cold day. So foggy, too. >
+Captain! An unidentified ship has been spotted! She's 5 degrees off the port side, distance 10 nautical miles, sailing due north!
+Press 1 to continue.
+1
+
+<Who would be here at this time? >
+Captain, the ship has been identified. She's IJN Hiei, a Kongo-class battleship of the Imperial Japanese Navy!  
+What's your order?
+1:Retreat! Full port rudder!
+2:General Quarters!
+1
+
+**The USS San Francisco retreats, radioing the position of the Japanese battleship to the fleet.
+The next day, during what would be known as the 1st Naval Battle of Guadalcanal, a shell from a Japanese battleship  hits the bridge of the USS San Francisco, killing everyone on the bridge including you. After the battle, you are honored as a naval war hero.  **
